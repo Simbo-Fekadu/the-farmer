@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.next/
+.env
+
+# Python
+__pycache__/
+.env
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
