@@ -7,6 +7,8 @@ node_modules/
 __pycache__/
 .env
 *.pyc
+.venv/
+venv/
 
 # OS
 .DS_Store
@@ -14,3 +16,12 @@ Thumbs.db
 
 # VSCode
 .vscode/
+
+# Backend specific
+backend/.env
+backend/venv/
+backend/__pycache__/
+
+# Frontend specific
+frontend/.next/
+frontend/node_modules/
